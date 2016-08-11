@@ -1,2 +1,2 @@
 # global-issues
-Discussions and plans that are relevant for all our toolits
+Discussions and plans that are relevant for all our toolkits
